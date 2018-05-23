@@ -1,4 +1,4 @@
-package ca.cihi.dao;
+package ca.cihi.oi.dao;
 
 public class OrderDao {
 	
