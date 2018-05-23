@@ -1,1 +1,1 @@
-# restful
+# A restful spring mvc application 
